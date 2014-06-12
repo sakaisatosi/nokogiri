@@ -1,0 +1,427 @@
+開講日程2012年度 秋学期 火曜日５時限担当教員井庭　崇関連科目【関連科目】30080:社会システム理論
+【関連科目】12020:パターンランゲージ
+【関連科目】14310:複雑系の数理
+使用言語英語授業形態ディスカッション履修者選抜
+			【受入予定人数】20人
+		【受入予定人数を超えた場合の選考日程】July 3: Iba Lab information session (5th hour @ K11) / July 21: Entry submission deadline  |  7月3日（火）井庭研説明会（5限 ＠ κ11教室）/  7月21日（土）エントリー〆切
+		【受入受入予定を超えた場合の選考方法】Entry submission by E-mail (deadline: July 21, 2012) and Interview (July 26-27, 2012)
+
+		履修条件
+
+Members are required to take classes held by Professor Iba besides the lab sessions, since skills and knowledge necessary for the lab will be taught there also. Professor Iba will be teaching "Pattern Language" and "Complex Systems Theory" in the Fall semester of 2012. 
+
+
+We are looking for members who are willing to study together with us in a long perspective. Breakthrough in knowledge and skills can be expected through long-term commitment.
+
+
+
+
+
+
+
+研究に関連する概念・知識・スキルは授業でも伝えるので、井庭担当科目も履修するようにしてください。2012年度秋学期は、「パターン・ランゲージ」と「複雑系の数理（GIGA）」を担当します。
+
+
+長く一緒に研究する意志のある人を歓迎します。腰を据えて続けると、知識と能力の両面においてブレイクスルーが起き、飛躍的に伸びることが期待できます。
+
+
+連絡先ilab-entry2012@sfc.keio.ac.jp研究会ホームページhttp://creativesystemslab.blogspot.jp/
+
+                
+Our society today is becoming more complex and diverse day by day. Finding a way to design the future with our own hands has become the fundamental problem for us today. To be creative in such a society, we must create our own visions, and design tools and methods to make the vision become a reality.
+
+In our lab, we define a Creative Society as a society where various people design and create new perceptions, new products, new methods, and ultimately the future for ourselves, by ourselves. The lab aims to seize the sprouts of the creative society, imagine its growth, and nurture it through actual practice.
+
+Members of the lab would either work on Personal Projects based on their interest in a certain field, or they can work in one of the Frontier Projects formed by members of the lab.
+
+Examples of Personal Projects include analysis of open collaborations, research on social media, putting creative workshops to practice, analysis of the creative process, creation of tools to support creative processes, building new forms of communication media, or the creation of a pattern language in a new field. Of course, any other topic that you are interested in is welcome.
+
+We are planning on starting the following Frontier Projects.
+
+
+
+Documentary Filming - Filming, production, and streaming of the world's first documentary film about pattern languages. Those with skills in film editing are welcome.
+
+
+Web Application Development - Launch a new kind of social networking service based on pattern languages. We welcome those with high programming and software development skills. 
+
+
+Global Expansions - Introduce pattern languages and workshops based on them overseas. For all of you out there with high English skills, this is the place for you.
+
+
+Workshop Design - Develop and carry out new forms of workshops using pattern languages. For those interested in creating environments for effective study or creation.
+
+
+Education to Nurture Creativity - Study methods of education that would nurture the creativity of children, and put it into practice. Future teachers and anyone interested in education is welcome.
+
+
+
+Upon conducting your project, you must first let go of the knowledge and methods fixed to existing sciences, and commit to the project by reconstructing a new method for a new era of study. To help the process, we will take time to read and discuss books about related topics.
+
+The theme for our lab is Creativity. We are looking for prospective lab members who are willing to commit creatively to the future!
+
+*We welcome GIGA students who don't speak Japanese! If the students join, we will use English in the lab.
+
+
+
+自分たちで自分たちの未来をデザインする ── 社会が複雑化し多様化するなかで、いかにしてそれを実現するのか。これは現代のコミュニティや個人が抱えている根本的な課題です。創造的な社会においては、自らヴィジョンを生み出し、それを具現化する道具・仕組みをデザインし、実践することが求められます。
+
+本研究会では、「あらゆる人々が、自分たちで自分たちの新しい認識・新しいモノ・新しい仕組み、そして未来を創造する社会」を「創造社会」（Creative Society）と呼び、現在生まれつつあるその萌芽を捉え、これからの展開を想像、実践、促進させていきます。
+
+本研究会の参加者は、各人の問題意識にもとづいた「個人研究」、もしくは井庭研内に立ち上げる「フロンティア・プロジェクト」のなかで研究を進めます。
+
+「個人研究」の具体例としては、オープン・コラボレーションの分析や、ソーシャル・メディアの研究、創造的なワークショップの実践、創造プロセスの分析、発想支援の道具づくり、新しいコミュニケーション・メディアや創造メディアの構築、新しい領域でのパターン・ランゲージの制作などがあるでしょう（もちろん、これ以外のテーマも歓迎です）。
+
+「フロンティア・プロジェクト」としては、以下のものが新しくスタートします。
+
+
+
+ドキュメンタリー映像制作（パターン・ランゲージに関する世界で初めての本格ドキュメンタリーを作成し、世界に配信します。映像制作のスキルがある人を歓迎します。）
+
+
+Webアプリ開発（パターン・ランゲージを用いた新しいネットコミュニティのサービスを開発・立ち上げをします。プログラミングやシステム開発が得意な人を歓迎します。）
+
+
+海外展開（パターン・ランゲージやワークショップの導入・実践を海外で行います。英語が得意でそれを活かしたい人を歓迎します。）
+
+
+ワークショップ・デザイン（パターン・ランゲージを活用した新しいワークショップを開発し、実施していきます。学びや発想の場づくりに興味がある人を歓迎します。）
+
+
+創造性を育む教育の研究・実践（創造性を育む教育の方法について研究し、実践します。教育に興味がある人や将来教師になりたいという人を歓迎します。）
+
+
+
+研究の際には、既存の学問的方法論にとらわれることなく、さまざまな学問分野に固定化されている「知」と「方法」を一度解放し、新しい時代の新しい方法として再構成して取り組みます。生成的な変化を捉えるための可視化や、全体性を捉えるための地図の作成など、新しい方法論や道具づくりも行います。そのような活動の補助となる文献を、みんなで読み議論する時間も設けます。
+
+創造性をテーマとする以上、本研究会のアプローチも創造的でありたいと考えています。理論構築、方法・道具の開発、実践をくり返しながら、創造的に未来へコミットしていく「やる気」のある人を募集します！
+
+*日本語を話さないGIGAの学生が入ってきた場合、研究会での主な使用言語を英語にします。ほとんどのメンバーにとって初めての試みなので、日本語での補足も加えながら、一緒に挑戦しましょう！
+
+Lab members will be evaluated based on their progress of their projects, including its process. Participation and effort in lab-related activities will also affect grades.
+
+
+
+日頃の文献読解・議論における積極性・貢献度、個人研究の成果、および研究会関連の諸活動から総合的に評価します。
+
+
+Takashi Iba, "An Autopoietic Systems Theory for Creativity", Procedia - Social and Behavioral Sciences, Vol.2, Issue 4, 2010, pp.6610-6625
+
+
+Daniel H. Pink, A Whole New Mind: Why Right-Brainers Will Rule the Future, Riverhead Trade, 2006
+
+
+Don Tapscott, Anthony D. Williams, Wikinomics: How Mass Collaboration Changes Everything, Portfolio Trade, Expanded ed., 2010
+
+
+Peter Gloor, Coolfarming: Turn Your Great Idea into the Next Big Thing, AMACOM, 2010
+
+
+Keith Sawyer, Group Genius: The Creative Power of Collaboration, Basic Books, 2008 
+
+
+Thomas Kelley, Jonathan Littman, The Art of Innovation: Success Through Innovation the IDEO Way, Profile Business, 2002
+
+
+Morris Berman, The Reenchantment of the World, Cornell University Press, 1984
+
+
+Gregory Bateson, Steps to an Ecology of Mind, The University of Chicago Press, 2000
+
+
+N. Luhmann, Social Systems, Stanford University Press, 1996
+
+
+Thomas S. Kuhn, The Structure of Scientific Revolution, The University of Chicago Press, 1962
+
+
+Freeman Dyson, Imagined Worlds, Harvard University Press, 1997
+
+
+Peter M. Senge, et. al., Presence: Human Purpose and the Field of the Future, Crown Business, Reprint ed., 2008
+
+
+C. Otto Scharmer, Theory U: Leading from the Future as It Emerges: The Social Technology of Presencing, Berrett-Koehler Pub, 2009
+
+
+Stephen Grabow, Christopher Alexander: The Search for a New Paradigm in Architecture, Routledge Kegan & Paul, 1983 
+
+
+M. Lynn Manns, L. Rising, Fearless Change: Patterns for Introducing New Ideas, Addison-Wesley, 2004
+
+
+Learning Patterns Project, Learning Patterns: A Pattern Language for Creative Learning, 2011
+
+
+Christopher Alexander, The Nature of Order, Book 1-4, Center for Environmental Structure, 2001-
+
+
+Jenny Quillien, Delight's Muse on Christopher Alexander's The Nature of Order: A Summary and Personal Interpretation, Lulu.Com, 2008
+
+
+George Lakoff, Mark Johnson, Metaphors We Live By, The University of Chicago Press, 1980
+
+
+"Deduction, Induction, and Hypothesis" (Charles Sanders Peirce, The Essential Peirce: Selected Philosophical Writings VOLUME 1 (1867-1893), Indiana University Press, 1992) p.186-199
+
+
+Hayao Miyazaki, Starting Point 1979-1996, VIZ media, 2009
+
+
+Haruki Murakami, What I Talk about When I Talk about Running: A Memoir, Vintage Books, 2009
+
+
+B. Minto, The Pyramid Principle: Logic in Writing and Thinking, 3rd Revised ed, Financial Times Prentice Hall, 2008
+
+
+
+
+
+
+
+『【リアリティ・プラス】社会システム理論：不透明な社会を捉える知の技法』（井庭 崇 編著, 宮台 真司, 熊坂 賢次, 公文 俊平, 慶應義塾大学出版会, 2011）
+
+
+「自生的秩序の形成のための《メディア》デザイン──パターン・ランゲージは何をどのように支援するのか？」（井庭 崇, 『10+1 web site』, 2009年9月号）
+
+
+"An Autopoietic Systems Theory for Creativity" (Takashi Iba, Procedia - Social and Behavioral Sciences, Vol.2, Issue 4, 2010, pp.6610-6625)
+
+
+「パターンランゲージ 3.0：新しい対象 × 新しい使い方 × 新しい作り方」（井庭 崇, 情報処理, Vol.52 No.9, 2011）
+
+
+『ハイコンセプト：「新しいこと」を考え出す人の時代』（ダニエル・ピンク, 三笠書房, 2006）
+
+
+『ウィキノミクス：マスコラボレーションによる開発・生産の世紀へ』（ドン・タプスコット, アンソニー・D・ウィリアムズ, 日経BP社, 2007）
+
+
+Coolfarming: Turn Your Great Idea into the Next Big Thing (Peter Gloor, AMACOM, 2010)
+
+
+『出現する未来』（ピーター・センゲ ほか, 講談社, 2006）
+
+
+『U理論：過去や偏見にとらわれず、本当に必要な「変化」を生み出す技術』（C・オットー・シャーマー, 英治出版, 2010）
+
+
+『アブダクション：仮説と発見の論理』（米盛裕二, 勁草書房, 2007）
+
+
+『エコロジーのコミュニケーション：現代社会はエコロジーの危機に対応できるか？』（ニクラス・ルーマン, 新泉社, 2007）
+
+
+『信頼：社会的な複雑性の縮減メカニズム』（ニクラス ルーマン, 勁草書房, 1990）
+
+
+『社会システム理論』〈上〉 〈下〉（ニクラス・ルーマン, 恒星社厚生閣, 1995）
+
+
+Maps of the Imagination: The Writer as Cartographer (Peter Turchi, Trinity University Press. 2007)
+
+
+Atlas of Science: Visualizing What We Know (Katy B&#246;rner, The MIT Press, 2010)
+
+
+Networks: An Introduction (Mark E. J. Newman, Oxford University Press, 2010)
+
+
+The Atlas of Economic Complexity: Mapping Paths To Prosperity (Hausmann, Hidalgo et al., 2011)
+
+
+『Learning Patterns: A Pattern Language for Creative Learning』（学習パターン プロジェクト, 2009）
+
+
+『Presentation Patterns: A Pattern Language for Creative Presentations』（プレゼンテーション・パターン プロジェクト, 2011）
+
+
+「学びのコツ集めた冊子　好評」（2011年12月15日（木）読売新聞 朝刊（全国版）22面（教育）, 2011）
+
+
+『創造的論文の書き方』（伊丹敬之, 有斐閣, 2001）
+
+
+『「超」文章法：伝えたいことをどう書くか』（野口悠紀夫, 中公新書1662, 2002）
+
+
+『考える技術・書く技術：問題解決力を伸ばすピラミッド原則』（バーバラ・ミント, 新版, ダイヤモンド社, 1999） 
+
+
+Iba Lab B1: Verbalization of Tacit Knowledge through Pattern Languages (Collaboration Patterns: The Study of Attractive, Intriguing, and Moving Words)
+
+
+
+パターン・ランゲージによる実践知の言語化プロジェクト （魅力があり、想像力をかきたて、人を動かすことばの探究：コラボレーション・パターン）
+After reading through this syllabus thoroughly, please submit the entry assignment described below via email by Saturday, July 21.
+
+
+
+Email to: ilab-entry2012@sfc.keio.ac.jp
+
+
+Subject: Iba Lab B2 Entry
+
+
+Please attach your entry assignment in a Word or PDF file.
+
+
+
+Iba Lab B2 Entry Assignment
+
+
+
+Name, Faculty, Grade, Student ID, login ID
+
+
+Topic of study you wish to work on in the lab, or the Frontier Project you wish to participate in. Reason for your entry. Your Enthusiasm towards the project.
+
+
+Other Labs you are planning on belonging to next semester (If any)
+
+
+Labs you have been a part of (If any)
+
+
+Favorite classes you've taken so far - Multiple answers are welcome
+
+
+Courses by Prof. Iba which you have taken before
+
+
+Any other introduction of yourself. (clubs, activities, interests, future visions, any other points to sell)
+
+
+
+
+
+Question 2 should be about 1 page in length.
+
+
+You are welcome to use any pictures or diagrams for questions 2 and 7.
+
+
+
+The selection interview will be held based on the information given in the entry assignment.
+
+
+
+本シラバスをしっかりと読んで内容を理解した上で、以下のエントリー情報を7月21日（土）までにメールで提出してください。
+
+
+
+エントリーメールの提出先： ilab-entry2012@sfc.keio.ac.jp
+
+
+メールのサブジェクト（件名）： 井庭研究会B2 履修希望
+
+
+以下の内容を書いた文書ファイル（WordもしくはPDFファイル）を、メールに添付してください。
+
+
+
+井庭研究会B2 履修希望
+
+
+
+氏名（ふりがな）, 学部, 学年, 学籍番号, ログイン名
+
+
+取り組みたい個人研究テーマ、もしくは参加したいフロンティア・プロジェクトの説明・希望理由・意気込み ※
+
+
+来学期、並行して所属する予定の研究会（あれば）
+
+
+これまでに所属した研究会（あれば）
+
+
+これまでに履修した授業のなかあればで、お気に入りのもの（複数可）
+
+
+これまでに履修した担当教員（井庭）の授業
+
+
+その他の自己紹介（やっていること、興味があること、将来の方向性、自己アピールなど）
+
+
+
+
+
+※ (2)は、A4用紙で1枚程度でまとめてください。
+
+
+※ (2)と(7)では、図や写真を用いて構いません。
+
+
+
+以上のエントリー情報にもとづき、面接を行ないます。面接は、7月26日・27日を予定しています。
+Exploring Theories, Methods, and Practices for the Creative Society | 創造社会の理論・方法・実践研究
+
+
+Since members of the lab each have a different field of expertise, knowledge necessary for each member's project must be acquired outside of class.
+
+
+Classes will most likely be extended without notice. We also go for dinner after lab sessions, so please keep your schedule open for the night on days with lab sessions. 
+
+
+You are welcome to take both Iba Lab B1 and B2 in the same semester, or belong to another lab besides the Iba lab at the same time. 
+
+
+Prospective members are asked to attend the Iba Lab Spring Presentation on 7/28/2012 (Sat).
+
+
+Join us on opportunities to go on overseas trips to attend workshops and academic conferences. This year we will be visiting Germany in July and the US in October. 
+
+
+Iba Lab members are required to write their graduation thesis in English.
+
+
+
+
+
+
+
+研究会に参加するメンバーは、具体的にはそれぞれ異なる対象領域をもつことになるので、各自の研究テーマに関する知識は自分で身につけてもらいます。
+
+
+ゼミの時間は毎回延長します。また、ゼミ後に議論・交流のための食事会を開催するので、ゼミの時間の後には他の予定を入れないようにしてください。
+
+
+井庭研究会B1との同時履修や、他の研究会との同時履修も歓迎します。
+
+
+履修希望者は、2012年7月28日（土）に開催される「井庭研 春学期研究発表会」に参加してください。
+
+
+国際学会での研究発表やワークショップ実施のため、研究会メンバーと海外に行く機会が何度かあります。ぜひ一緒に行きましょう（2012年度は、7月にドイツと、10月にアメリカを予定しています）。
+
+
+井庭研では、グローバルな時代ということを踏まえ、卒論を英語で書くことにしています。研究活動と並行して、英語での読み書き能力も高めましょう。
+
+
+
+
+Progress on each member's project will be shared at lab meetings. In addition, we will read and discuss books, and exercises to polish up skills will be given. 
+
+
+Members are required to work on their projects outside of class time.
+
+
+Sessions are planned on 5th hour Tuesdays.
+
+
+
+
+
+
+
+毎週のゼミでは、個人研究／プロジェクトの進捗報告のほか、文献輪読や、スキルアップのための演習などを行います。
+
+
+個人研究／プロジェクトは、ゼミの時間以外に各自進めてください。
+
+
+ゼミは、火曜5限を予定しています。
+
+

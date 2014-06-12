@@ -1,0 +1,77 @@
+開講日程2012年度 秋学期 木曜日５時限担当教員バンミーター，　ロドニー関連科目【前提科目（推奨）】35010:コンピュータアーキテクチャ
+使用言語日本語授業形態履修者選抜
+			【受入予定人数】15人
+		【受入予定人数を超えた場合の選考日程】
+		【受入受入予定を超えた場合の選考方法】
+		履修条件連絡先aqua@sfc.wide.ad.jp研究会ホームページ
+
+ペタバイト以上のストレージサイズを見据えて、通信プロトコル、データ構造、保存技術を含めた分散巨大ストレージシステムの研究をおこないます。 
+P2Pストレージや、携帯電話やPDAなどの携帯端末向けのストレージの研究もおこないます。 
+
+We will study distributed mass storage, including the networking protocols, data structures, and storage technologies for petabyte and larger-scale storage systems. We will study peer-to-peer storage, and storage for mobile systems such as cell phones and PDAs.
+
+合同研究会( http://rg.sfc.keio.ac.jp )の評価方法に準じます。
+http://rg.sfc.keio.ac.jp 
+徳田・村井・楠本・中村・高汐・重近・バンミーター・植原・三次・中澤合同研究プロジェクトの一環となります。 
+http://rg.sfc.keio.ac.jp
+日本語と英語の両方が利用可能です。
+English speaker is welcome.
+
+Students will learn about the following topics: 
+
+
+
+Classic distributed file systems: 現行の分散ファイルシステム 
+
+
+
+Key paper: Levy, Silberschatz, Distributed file systems: Concepts and Examples," ACM Computing Surveys, 1990. 
+
+
+
+
+Networking protocols for storage: ストレージのための通信プロトコル 
+
+
+
+Key paper: Gibson, Van Meter, "Network Attached Storage Architecture," Communications of the ACM, Nov. 2000. 
+
+
+
+
+Very large-scale storage systems: 超巨大ストレージシステム 
+
+
+
+Key paper: Ghemawat et al., "The Google File System," SOSP 2003. 
+
+
+
+
+Peer-to-peer storage: P2Pストレージ 
+
+
+
+Key paper: Dabek et al., "Wide-area cooperative storage with CFS", SOSP 2001. 
+
+
+
+
+Mobile storage : モバイル端末用ストレージ 
+
+
+
+Key paper: TBD. 
+
+
+
+
+Storage system security :ストレージシステムのためのセキュリティ 
+
+
+
+Key paper: Riedel et al., "A framework for evaluating storage system security", FAST 2002.
+
+
+
+

@@ -1,0 +1,69 @@
+開講日程2012年度 秋学期 木曜日５時限,木曜日６時限担当教員武田　圭史関連科目使用言語英語授業形態講義、ディスカッション、グループワーク、実験、演習履修者選抜
+			【受入予定人数】35人
+		【受入予定人数を超えた場合の選考日程】
+		【受入受入予定を超えた場合の選考方法】
+		履修条件Students willing to register for this seminar are required to meet the faculty to receive permission in advance. 
+連絡先keiji@sfc.keio.ac.jp研究会ホームページhttp://orz.sfc.keio.ac.jp/
+
+Objective: To develop innovative Information Technology(IT) applications for organizations and society and to solve issues related to use of IT.
+
+[ Research Topics ]
+
+
+
+Web marketing and data analysis
+
+
+Web UI/UX analysis
+
+
+Banking/Financial Information System
+
+
+Mobile(Smart Phone) Applications
+
+
+Malware(Computer Virus) Analysis
+
+
+Network Monitoring and Incident Response
+
+
+ID management infrastructure
+
+
+Visualization of Security
+
+
+Information System for Disaster Mitigation and Recovery
+
+
+
+[ Core Skills ]
+
+Registered students are required to complete following tasks in their first semester. Guidance and support would be given by faculty and senior members. This is mandatory to begin actual research activity in the lab.
+
+
+
+Set up of a web site
+
+
+Exam on minimum knowledge on network protocol and web technology
+
+
+Programing exercise scripting language (text data analysis)
+
+
+Basic Web programing or binary data analysis 
+
+
+
+Presentations and final report on their own research topic.
+Contribution to the group.
+
+Students registered for their first semester are evaluated based on the accomplishment of the 4 core skill exercise mentioned above. 
+From 2012 spring, this research group would be managed in English as its official language. Registered students are recommended try to get used to do research in English, however presentations and papers can be done in Japanese based on their proficiency.
+
+Students can have an options to register this lab as part of joint research group by registering a seminar class 4th period on Thursday by one of the following faculty member Tokuda, Murai, Kusumoto, Nakamura, Takashio, Van Meter, Uehara, Mitsugi, Nakazawa. This registration as joint research group can offer 6 credits(4+2).
+Please consult with the professor for how to register. 
+Regular research meeting with all member would be held at 5-6th period on Thursday and additional group meetings would be also scheduled. 

@@ -1,0 +1,49 @@
+開講日程2012年度 秋学期 木曜日４時限担当教員バンミーター，　ロドニー関連科目【前提科目（推奨）】35010:コンピュータアーキテクチャ
+【前提科目（推奨）】14270:線形の理論
+【関連科目】90533:ＱＵＡＮＴＵＭ　ＩＮＦＯＲＭＡＴＩＯＮ　ＰＲＯＣＥＳＳＩＮＧ
+使用言語日本語授業形態履修者選抜
+			【受入予定人数】15人
+		【受入予定人数を超えた場合の選考日程】
+		【受入受入予定を超えた場合の選考方法】
+		履修条件連絡先aqua@sfc.wide.ad.jp研究会ホームページhttp://aqua.sfc.wide.ad.jp
+
+量子コンピュータ、量子通信、量子暗号などの、量子情報技術についての研究を行います。 
+ex. 
+
+
+
+量子コンピュータ計算チップデザインの最適化 
+
+
+量子インターネット通信アルゴリズム 
+
+
+量子暗号と現在のインターネットにおける暗号化通信 
+
+
+
+We study quantum technologies such as quantum computer architectures, quantum network design and quantum key distribution. 
+ex.
+
+
+
+Optimization of quantum computer chip design 
+
+
+Algorithms for the quantum Internet 
+
+
+Combining quantum key distribution with standard Internet encryption
+
+
+
+合同研究会( http://rg.sfc.keio.ac.jp )の評価方法に準じます。
+量子コンピュータと量子通信 (Michael A. Nielsen, Isaac L. Chuang)
+http://rg.sfc.keio.ac.jp 
+各員の進捗に応じて、勉強/研究をおこないます。
+徳田・村井・楠本・中村・高汐・重近・バンミーター・植原・三次・中澤合同研究プロジェクトの一環となります。 
+http://rg.sfc.keio.ac.jp
+各員の進捗に応じて、勉強/研究をおこないます。英語と日本語の両方が利用可能です。
+
+Study/Research will be assigned to each person.
+English speaker is welcome.
